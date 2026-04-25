@@ -130,3 +130,14 @@
 
 ---
 
+## 🖥️ Интерфейс приложения
+
+### Главное окно
+![Main Window](screenshots/main.png)
+
+### Поиск
+![Search](screenshots/search.png)
+
+### Сортировка и группировка
+![Sort](screenshots/sort.png)
+
