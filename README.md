@@ -133,11 +133,11 @@
 ## 🖥️ Интерфейс приложения
 
 ### Главное окно
-![Main Window](screenshots/main.png)
+![Main Window](screenshots/Screenshot 2026-04-25 154214.png)
 
 ### Поиск
-![Search](screenshots/search.png)
+![Search](screenshots/Screenshot 2026-04-25 154214.png)
 
 ### Сортировка и группировка
-![Sort](screenshots/sort.png)
+![Sort](screenshots/Screenshot 2026-04-25 154237.png)
 
